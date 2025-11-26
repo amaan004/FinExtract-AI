@@ -1,0 +1,5 @@
+{
+  "name": "FinExtract AI",
+  "description": "A powerful financial document extraction engine powered by Gemini 2.5 Flash. Upload receipts, invoices, or statements to automatically extract and categorize data.",
+  "requestFramePermissions": []
+}
